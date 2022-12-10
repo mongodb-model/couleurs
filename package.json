@@ -25,14 +25,10 @@
     "transform",
     "eventEmitter"
   ],
-  "author": "Ericson S. Weah <ericson.weah@gmail.com> (https://www.ericsonweah.com/)",
+  "author": "Ericson S. Weah <ericson.weah@ericsonsweah.com> (https://www.ericsonsweah.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mongodb-model/couleurs/issues"
   },
-  "homepage": "https://github.com/mongodb-model/couleurs#readme",
-  "dependencies": {
-    "dotenv": "16.0.3",
-    "vitest": "0.25.1"
-  }
+  "homepage": "https://github.com/mongodb-model/couleurs#readme"
 }
