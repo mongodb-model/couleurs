@@ -1,6 +1,6 @@
 {
   "name": "@mongodb-model/couleurs",
-  "version": "0.0.10000",
+  "version": "0.0.10",
   "description": "couleurs",
   "main": "index.js",
   "bin": {
